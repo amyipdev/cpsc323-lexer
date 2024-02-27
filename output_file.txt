@@ -1,0 +1,10 @@
+   Keyword = while
+ Separator = (
+Identifier = t
+  Operator = <
+Identifier = upper
+ Separator = )
+Identifier = s
+  Operator = =
+      Real = 22.00
+ Separator = ;
